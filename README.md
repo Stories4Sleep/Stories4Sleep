@@ -2,6 +2,6 @@
 
 ## While this page is still under development, the goal is to eventually provide information about how users can access the Stories4Sleep TikTok channel.
 
-## We plan to expand this page soon to provide more details about Stories4Sleep, including a full FAQ, the benefits of AI-generated stories, and user testimonials. For now, it serves as a simple landing page that links to our TikTok profile.
+## We plan to expand this page soon to provide more details about Stories4Sleep, including a full FAQ, the benefits of AI-generated stories, and user testimonials. For now, it serves as a simple landing page that links to our TikTok profile. 
 
 
